@@ -1,5 +1,5 @@
 """
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
+projekt_2a.py: druhý projekt do Engeto Online Python Akademie
 
 "Bulls & Cows" hra
 
